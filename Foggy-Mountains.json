@@ -3,7 +3,8 @@
     "author": "vendicateddev",
     "version": "0.0.1",
     "name": "Foggy-Mountains",
-    "transparency_mode": 3
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/Foggy-Mountains.json"
   },
   "background": {
     "overlay_alpha": 90,
