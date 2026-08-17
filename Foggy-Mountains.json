@@ -6,8 +6,8 @@
     "transparency_mode": 3
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/Foggymountains.jpg",
-    "overlay_alpha": 90
+    "overlay_alpha": 90,
+    "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png"
   },
   "simple_colors": {},
   "colors": {},
