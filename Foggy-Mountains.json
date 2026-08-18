@@ -22,7 +22,7 @@
     "primary_dark_660": -10790052,
     "primary_dark_330": -6052694,
     "primary_dark_300": -3619644,
-    "primary_dark_800": -0,
+    "primary_dark_800": 0,
     "brand_new_260": -1578509,
     "brand_500_alpha_20": 864191374,
     "status_yellow_500_alpha_10": 444366476,
@@ -35,6 +35,7 @@
   "drawable_tints": {
     "ic_sidebar_pins_off_dark_24dp": -5592406,
     "ic_sidebar_notifications_on_dark_24dp": -5592406,
-    "drawable_button_red": -8223858
+    "drawable_button_red": -8223858,
+    "drawable_overlay_channels_selected_dark": -13553099
   }
 }
