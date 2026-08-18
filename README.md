@@ -8,6 +8,8 @@ A custom Theme for the Modifed Discord Android Client "Aliucord"
 
 
 
-## YOU MUST TURN ON FULL TRANSPARENCY FOR THE THEME TO WORK PROPERLY
+## YOU MUST TURN ON FULL TRANSPARENCY AND DARK MODE FOR THE THEME TO WORK PROPERLY
+
+Here are screenshots of the theme in the app:
 
 
