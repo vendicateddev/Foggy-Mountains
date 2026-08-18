@@ -14,13 +14,15 @@
     "blocked_bg": -141125481,
     "input_background": -8618356,
     "mention_highlight": -8618356,
-    "accent": -6184034
+    "accent": -9145225,
+    "background": 0,
+    "background_secondary": 0
   },
   "colors": {
     "primary_dark_660": -10790052,
     "primary_dark_330": -7697516,
     "primary_dark_300": -3619644,
-    "primary_dark_800": -9145225
+    "primary_dark_800": -15197924
   },
   "drawable_tints": {
     "ic_sidebar_pins_off_dark_24dp": -5592406,
