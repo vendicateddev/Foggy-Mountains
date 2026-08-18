@@ -3,14 +3,21 @@
     "author": "vendicateddev",
     "version": "0.0.1",
     "name": "Foggy-Mountains",
-    "transparency_mode": 3,
-    "updater": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/Foggy-Mountains.json"
+    "updater": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/Foggy-Mountains.json",
+    "transparency_mode": 3
   },
   "background": {
-    "overlay_alpha": 90,
-    "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png"
+    "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png",
+    "overlay_alpha": 90
   },
-  "simple_colors": {},
-  "colors": {},
+  "simple_colors": {
+    "blocked_bg": -141125481,
+    "input_background": -8618356,
+    "mention_highlight": -8618356
+  },
+  "colors": {
+    "primary_dark_660": -10790052,
+    "primary_dark_330": -1
+  },
   "drawable_tints": {}
 }
