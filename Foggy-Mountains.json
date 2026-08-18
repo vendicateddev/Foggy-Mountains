@@ -13,19 +13,28 @@
   "simple_colors": {
     "blocked_bg": -141125481,
     "input_background": -8618356,
-    "mention_highlight": -8618356,
+    "mention_highlight": -8355712,
     "accent": -9145225,
     "background": 0,
     "background_secondary": 0
   },
   "colors": {
     "primary_dark_660": -10790052,
-    "primary_dark_330": -7697516,
+    "primary_dark_330": -6052694,
     "primary_dark_300": -3619644,
-    "primary_dark_800": -15197924
+    "primary_dark_800": -0,
+    "brand_new_260": -1578509,
+    "brand_500_alpha_20": 864191374,
+    "status_yellow_500_alpha_10": 444366476,
+    "status_yellow_500": -6710359,
+    "brand_new_560": -8618356,
+    "uikit_settings_item_text_color_light": -9145225,
+    "uikit_btn_bg_color_selector_red": -9145225,
+    "white_500": -1
   },
   "drawable_tints": {
     "ic_sidebar_pins_off_dark_24dp": -5592406,
-    "ic_sidebar_notifications_on_dark_24dp": -5592406
+    "ic_sidebar_notifications_on_dark_24dp": -5592406,
+    "drawable_button_red": -8223858
   }
 }
