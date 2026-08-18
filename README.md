@@ -15,6 +15,5 @@ A custom Theme that changes the Aliucord client to look a bit more "cozy and cal
 
 Here are screenshots of how the theme looks like:
 
-![image alt](https://github.com/vendicateddev/Foggy-Mountains/blob/2dd730ee2750f8b4ec172092a5841f88625118b2/theme-photo-readme/Screenshot_20260818_155154.jpg)
 
 
