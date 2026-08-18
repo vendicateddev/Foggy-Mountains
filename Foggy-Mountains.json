@@ -30,12 +30,15 @@
     "brand_new_560": -8618356,
     "uikit_settings_item_text_color_light": -9145225,
     "uikit_btn_bg_color_selector_red": -9145225,
-    "white_500": -1
+    "white_500": -1,
+    "primary_dark_360": -1513240,
+    "primary_dark_200": -1578509,
+    "link": -10843649
   },
   "drawable_tints": {
     "ic_sidebar_pins_off_dark_24dp": -5592406,
     "ic_sidebar_notifications_on_dark_24dp": -5592406,
     "drawable_button_red": -8223858,
-    "drawable_overlay_channels_selected_dark": -13553099
+    "drawable_overlay_channels_selected_dark": -12434360
   }
 }
