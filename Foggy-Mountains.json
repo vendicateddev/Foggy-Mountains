@@ -10,10 +10,11 @@
     "url": "https://raw.githubusercontent.com/vendicateddev/Foggy-Mountains/refs/heads/main/FoggyMountains.png",
     "overlay_alpha": 90
   },
+  "fonts": {},
   "simple_colors": {
-    "blocked_bg": -141125481,
+    "blocked_bg": -929654633,
     "input_background": -8618356,
-    "mention_highlight": -8355712,
+    "mention_highlight": 612401280,
     "accent": -9145225,
     "background": 0,
     "background_secondary": 0
@@ -40,5 +41,6 @@
     "ic_sidebar_notifications_on_dark_24dp": -5592406,
     "drawable_button_red": -8223858,
     "drawable_overlay_channels_selected_dark": -12434360
-  }
+  },
+  "raws": {}
 }
